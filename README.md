@@ -1,3 +1,4 @@
 ##fuctions
 ##datatypes
 ##arrays
+##pointers
