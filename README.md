@@ -1,6 +1,6 @@
 ## fuctions
 ## datatypes
-
+## arrays
 ## pointers
 These are some basic definations first you should study on
 
