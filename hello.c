@@ -2,5 +2,5 @@
 
 int main() {
     printf("Heelo, C code!\n");
-    return 0;
+    return 0
 }
