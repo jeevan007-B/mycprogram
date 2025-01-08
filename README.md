@@ -1,1 +1,3 @@
-# mycprogram
+##fuctions
+##datatypes
+##arrays
